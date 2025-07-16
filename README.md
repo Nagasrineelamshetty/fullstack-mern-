@@ -1,1 +1,1 @@
-full stack mern
+Mern stack
