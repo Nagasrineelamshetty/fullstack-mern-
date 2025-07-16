@@ -1,1 +1,2 @@
 # fullstack-mern-
+Learning mern.
